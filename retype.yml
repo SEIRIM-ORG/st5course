@@ -1,6 +1,7 @@
 input: .
 exclude:
     - /README.md # ignore specified files
+    - /welcome.md # ignore specified files
 output: .retype
 
 url: st5course.seirim.com # Use your website address here
@@ -10,13 +11,21 @@ start:
   # pro: true
 
 branding:
-  title: ST5Course
-  label: Docs
+  logo: static/seirim-logo-light.svg
+  logoDark: static/seirim-logo.svg
+  favicon: static/favicon.ico
+
 
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
-
+- text: SEIRIM
+  link: https://seirim.com/en/home
+- text: Services
+  link: https://seirim.com/en/services/cybersecurity
+- text: Blog
+  link: https://seirim.com/en/resources/news/category/cybersecurity
+- text: Contact
+  link: https://seirim.com/en/contact
+  
 
   
 
