@@ -1,7 +1,7 @@
 input: .
 exclude:
     - /README.md # ignore specified files
-    - /welcome.md # ignore specified files
+    - /Welcome.md # ignore specified files
 output: .retype
 
 url: SEIRIM-ORG.github.io/st5course # Use your website address here
@@ -11,9 +11,9 @@ start:
   pro: true
 
 branding:
-  logo: static/seirim-logo-light.svg
-  logoDark: static/seirim-logo.svg
-  favicon: static/favicon.ico
+  logo: ./docs/static/seirim-logo-light.svg
+  logoDark: ./docs/static/seirim-logo.svg
+  favicon: ./docs/static/favicon.ico
 
 
 links:

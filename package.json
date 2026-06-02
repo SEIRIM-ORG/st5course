@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "retype start",
-    "start:password": "retype start -- --password",
+    "start:password": "retype start -- --password 1234",
     "version": "retype --version",
     "build": "retype build",
     "add:key":"retype wallet --add"
