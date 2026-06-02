@@ -8,7 +8,7 @@ url: st5course.seirim.com # Use your website address here
 
 start:
   # Uncomment the next line to try Retype Pro features
-  # pro: true
+  pro: true
 
 branding:
   logo: static/seirim-logo-light.svg

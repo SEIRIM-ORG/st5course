@@ -1,8 +1,10 @@
 {
   "scripts": {
     "start": "retype start",
+    "start:password": "retype start -- --password",
     "version": "retype --version",
-    "build": "retype build"
+    "build": "retype build",
+    "add:key":"retype wallet --add"
   },
   "dependencies": {
     "retypeapp": "^3.11.0"
