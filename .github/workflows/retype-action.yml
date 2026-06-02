@@ -36,7 +36,10 @@ jobs:
 
       - name: Build site
         run: npm run build
-
+        env:
+          RETYPE_KEY: ${{ secrets.RETYPE_KEY }}
+          RETYPE_PASSWORD: ${{ secrets.RETYPE_PASSWORD }}
+          
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6
 
