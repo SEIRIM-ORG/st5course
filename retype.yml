@@ -4,7 +4,7 @@ exclude:
     - /welcome.md # ignore specified files
 output: .retype
 
-url: st5course.seirim.com # Use your website address here
+url: SEIRIM-ORG.github.io/st5course # Use your website address here
 
 start:
   # Uncomment the next line to try Retype Pro features
