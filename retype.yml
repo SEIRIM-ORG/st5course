@@ -1,4 +1,6 @@
 input: .
+exclude:
+    - /README.md # ignore specified files
 output: .retype
 
 url: st5course.seirim.com # Use your website address here
@@ -14,6 +16,9 @@ branding:
 links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/
+
+
+  
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
