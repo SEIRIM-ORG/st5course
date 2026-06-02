@@ -1,0 +1,10 @@
+{
+    "id": "retype",
+    "name": "Retype",
+    "version": "1.4.0",
+    "minAppVersion": "1.11.4",
+    "description": "Build and preview your documentation with Retype.",
+    "author": "Retype",
+    "authorUrl": "https://retype.com",
+    "isDesktopOnly": true
+}
