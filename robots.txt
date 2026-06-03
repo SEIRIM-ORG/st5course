@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /st5course/
+Disallow: /
