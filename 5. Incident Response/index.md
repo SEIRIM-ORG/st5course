@@ -1,4 +1,4 @@
 ---
-icon: focus-center
+icon: zap
 order: 100
 ---

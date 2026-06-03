@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Incident Response/index.md",
+                "file": "Further Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Further Study"
             }
           }
         ],
@@ -286,21 +286,21 @@
   },
   "active": "365b94da9ab6c33f",
   "lastOpenFiles": [
-    "_Git commands to make live.md",
     "Start Here.md",
-    "1250 x 483 Header Annual Reports.jpg",
-    "4. Vulnerability Management and Systems Hardening/Vulnerability Scanning and Management.md",
-    "4. Vulnerability Management and Systems Hardening/Systems Hardening.md",
+    "5. Incident Response/index.md",
+    "4. Vulnerability Management and Systems Hardening/index.md",
     "5. Incident Response/Incident Response Plan.md",
     "5. Incident Response/Backup Regime.md",
     "5. Incident Response/App and Services Redundancy.md",
-    "5. Incident Response/index.md",
+    "_Git commands to make live.md",
+    "1250 x 483 Header Annual Reports.jpg",
+    "4. Vulnerability Management and Systems Hardening/Vulnerability Scanning and Management.md",
+    "4. Vulnerability Management and Systems Hardening/Systems Hardening.md",
     "Home.md",
     "_welcome.md",
     "_index.md",
     "readme.md",
     "1. Social Engineering/index.md",
-    "4. Vulnerability Management and Systems Hardening/index.md",
     "3. Cybersecurity Best Practices/index.md",
     "2. Identity and Access Management/index.md",
     "1. Social Engineering/Why Social Engineering Matters.md",
