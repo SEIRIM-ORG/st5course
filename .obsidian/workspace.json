@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Git commands to make live.md",
+                "file": "4. Vulnerability Management and Systems Hardening/Vulnerability Scanning and Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Git commands to make live"
+              "title": "Backlinks for Vulnerability Scanning and Management"
             }
           },
           {
@@ -212,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Git commands to make live.md",
+                "file": "4. Vulnerability Management and Systems Hardening/Vulnerability Scanning and Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Git commands to make live"
+              "title": "Outgoing links from Vulnerability Scanning and Management"
             }
           },
           {
@@ -255,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Git commands to make live.md",
+                "file": "4. Vulnerability Management and Systems Hardening/Vulnerability Scanning and Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Git commands to make live"
+              "title": "Outline of Vulnerability Scanning and Management"
             }
           }
         ]
@@ -287,12 +287,19 @@
   "active": "365b94da9ab6c33f",
   "lastOpenFiles": [
     "Start Here.md",
+    "1250 x 483 Header Annual Reports.jpg",
+    "4. Vulnerability Management and Systems Hardening/Vulnerability Scanning and Management.md",
+    "4. Vulnerability Management and Systems Hardening/Systems Hardening.md",
+    "5. Incident Response/Incident Response Plan.md",
+    "5. Incident Response/Backup Regime.md",
+    "5. Incident Response/App and Services Redundancy.md",
+    "5. Incident Response/index.md",
+    "_Git commands to make live.md",
     "Home.md",
     "_welcome.md",
     "_index.md",
     "readme.md",
     "1. Social Engineering/index.md",
-    "5. Incident Response/index.md",
     "4. Vulnerability Management and Systems Hardening/index.md",
     "3. Cybersecurity Best Practices/index.md",
     "2. Identity and Access Management/index.md",
@@ -309,7 +316,6 @@
     "3. Cybersecurity Best Practices",
     "2. Identity and Access Management",
     "1. Social Engineering",
-    "_Git commands to make live.md",
     "_getstart/test.md"
   ]
 }

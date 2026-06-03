@@ -3,6 +3,12 @@
 
 git add . && git commit -m "some of the update for " && git push
 
+git add . 
+
+git commit -m "some of the update for "
+
+git push
+
 ## to start Retype locally
 
 
