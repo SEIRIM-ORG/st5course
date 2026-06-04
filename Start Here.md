@@ -15,8 +15,19 @@ The goal of cybersecurity awareness is to lessen the likelihood and impact of th
 
 #### Our ST5 Course aims to:
 
-- Condense all the "must-know" best practices and wisdom into an easily approachable, non-technical presentation so it's digestible for all staff roles.
-- Include the "why" for all the concepts and recommendations to understand the reality of the threats and risks that companies face.
+- **Condense** all the "must-know" best practices and wisdom into an easily approachable, non-technical presentation so it's digestible for all staff roles.
+- **Include** the "why" for all the concepts and recommendations to understand the reality of the threats and risks that companies face.
+- **Educate** not only about what individual staff members should do to work more securely, but also what their organization should do to help make sure it happens.
+
+#### Upon Completing the Course the Student Can:
+
+- **Work Securely** - With awareness of the risks and best practices, the ST5 student is prepared to apply cybersecure preventions in all parts of their and their team's working processes.
+- **Understand and Advance** - The ST5 course student departs with a deep appreciation of all the behavioral, organizational and technical aspects their company must get right to be secure.
+- **Assess Current Status** - After learning about the threats, risks and mitigations available to deploy, the user is informed to help make sure their organization has all the right preventions in place and to see what may be lacking.
+
+
+![[Lock-of-lights-in-hand.jpg]]
+
 
 ## Course Elements
 
