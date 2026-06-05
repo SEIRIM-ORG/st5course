@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Top Attack Vector → Social Engineering",
+      "path": "1. Defeat Social Engineering/Top Attack Vector → Social Engineering.md"
+    },
+    {
+      "basename": "Recognize Attacks Across Different Channels",
+      "path": "1. Defeat Social Engineering/Recognize Attacks Across Different Channels.md"
+    },
+    {
+      "basename": "How Social Engineering Manipulates People",
+      "path": "1. Defeat Social Engineering/How Social Engineering Manipulates People.md"
+    },
+    {
       "basename": "Start Here",
       "path": "Start Here.md"
     },
@@ -109,10 +121,6 @@
       "path": "1. Defeat Social Engineering/Build Fraud-Resistant Business Processes and Culture.md"
     },
     {
-      "basename": "Top Attack Vector → Social Engineering",
-      "path": "1. Defeat Social Engineering/Top Attack Vector → Social Engineering.md"
-    },
-    {
       "basename": "Grant and Use Only Necessary Access",
       "path": "2. Protect Accounts and Access/Grant and Use Only Necessary Access.md"
     },
@@ -163,14 +171,6 @@
     {
       "basename": "Inspect Before Clicking, Opening, Scanning, or Replying",
       "path": "1. Defeat Social Engineering/Inspect Before Clicking, Opening, Scanning, or Replying.md"
-    },
-    {
-      "basename": "Recognize Attacks Across Different Channels",
-      "path": "1. Defeat Social Engineering/Recognize Attacks Across Different Channels.md"
-    },
-    {
-      "basename": "How Social Engineering Manipulates People",
-      "path": "1. Defeat Social Engineering/How Social Engineering Manipulates People.md"
     }
   ],
   "omittedPaths": [],
