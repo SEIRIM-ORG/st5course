@@ -16,3 +16,9 @@ If you apply the lessens in this course and push forward with a proactive cybers
 
 Our ST5 Course aims to not only enlighten all staff to be more aware of the best practices to prevent attacks, but also to educate managers on the technical preventions and resiliency measures they should ensure are being deployed and maintained in the organization.
 
+
+### Reference Links
+
+This course is provided to you by SEIRIM: https://seirim.com/en/home
+
+When it comes time to perform your Practical Exercises and Quizzes they are located here and you will use the account we provided for you: https://training.seirim.com/portal/login

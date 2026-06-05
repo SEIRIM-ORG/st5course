@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ecc759b7282f1c5c",
+        "id": "8ec500a00e51294d",
         "type": "tabs",
         "children": [
           {
-            "id": "9819141826fb25f1",
+            "id": "42f91f61a7525b1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_AI ideas for sections in modules.md",
+                "file": "5. Report Fast and Respond Correctly/Ensure Backups and Redundancies are Rock Solid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_AI ideas for sections in modules"
+              "title": "Ensure Backups and Redundancies are Rock Solid"
+            }
+          },
+          {
+            "id": "7cb8c1e231a112ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start Here.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Start Here"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 340.5
   },
   "right": {
     "id": "9893107fde1abdb1",
@@ -206,34 +221,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9819141826fb25f1",
+  "active": "7cb8c1e231a112ad",
   "lastOpenFiles": [
-    "2. Protect Accounts and Access/Grant and Use Only Necessary Access.md",
-    "2. Protect Accounts and Access/Manage the Full Account Lifecycle.md",
-    "2. Protect Accounts and Access/Verify Authentication and Privileged Access Controls.md",
-    "_AI ideas for sections in modules.md",
-    "2. Protect Accounts and Access/Never Share Accounts or Authentication Methods.md",
-    "2. Protect Accounts and Access/Use MFA Correctly.md",
-    "2. Protect Accounts and Access/Use Strong Passwords and Management.md",
-    "_Git commands to make live.md",
-    "5. Report Fast and Respond Correctly/Practical Exercise and Quiz.md",
-    "5. Report Fast and Respond Correctly/Backup Regime.md",
-    "5. Report Fast and Respond Correctly/App and Services Redundancy.md",
-    "4. Keep Devices, Software, and Workflows Secure/Practical Exercise and Quiz.md",
-    "3. Handle Data Safely/Practical Exercise and Quiz.md",
-    "2. Protect Accounts and Access/Practical Exercise and Quiz.md",
-    "1. Defeat Social Engineering/Practical Exercise and Quiz.md",
-    "1. Defeat Social Engineering/Top Attack Vector → Social Engineering.md",
-    "_Stephen Test doc 1.md",
-    "Home.md",
-    "1. Defeat Social Engineering/Measure Social Engineering Readiness.md",
-    "1. Defeat Social Engineering/Build Fraud-Resistant Business Processes.md",
-    "1. Defeat Social Engineering/Verify High-Risk Requests Through a Separate Channel.md",
-    "1. Defeat Social Engineering/Inspect Before Clicking, Opening, Scanning, or Replying.md",
-    "1. Defeat Social Engineering/Recognize Attacks Across Different Channels.md",
-    "1. Defeat Social Engineering/How Social Engineering Manipulates People.md",
-    "Further Study.md",
+    "5. Report Fast and Respond Correctly/Ensure Backups and Redundancies are Rock Solid.md",
     "Start Here.md",
+    "_AI ideas for sections in modules.md",
+    "5. Report Fast and Respond Correctly/Report Mistakes Without Delay or Shame.md",
+    "5. Report Fast and Respond Correctly/Prepare and Exercise the Incident Response Plan.md",
+    "5. Report Fast and Respond Correctly/Take the Correct First Actions.md",
+    "5. Report Fast and Respond Correctly/Know How to Report.md",
+    "5. Report Fast and Respond Correctly/Know What Counts as an Incident.md",
+    "Home.md",
+    "Further Study/Tools for Cybersecurity.md",
+    "Further Study/index.md",
+    "4. Keep Devices, Software, and Workflows Secure/index.md",
+    "5. Report Fast and Respond Correctly/index.md",
+    "Further Study/Vocabulary.md",
+    "Further Study.md",
+    "4. Keep Devices, Software, and Workflows Secure/Protect Devices in and Outside the Office.md",
+    "Further Study",
+    "4. Keep Devices, Software, and Workflows Secure/Systems Hardening and Protective Controls.md",
+    "4. Keep Devices, Software, and Workflows Secure/Vulnerability Scanning and Management.md",
+    "4. Keep Devices, Software, and Workflows Secure/Recognize and Report Unusual Device Behavior.md",
+    "4. Keep Devices, Software, and Workflows Secure/Use Only Approved Devices and Software.md",
+    "4. Keep Devices, Software, and Workflows Secure/Install Updates and Restart Promptly.md",
+    "3. Handle Data Safely/Establish Data Governance and Mitigate Risk.md",
+    "3. Handle Data Safely/Use Approved Tools and AI Services.md",
+    "3. Handle Data Safely/Share Data Safely.md",
+    "3. Handle Data Safely/Use the Minimum Necessary Data.md",
+    "3. Handle Data Safely/Identify Sensitive Information.md",
+    "people-world-map-work-area-blue.jpg",
     "Lock-of-lights-in-hand.jpg",
     "Finger-click-tablet-red-light.jpg",
     "1250 x 483 Header Annual Reports.jpg",

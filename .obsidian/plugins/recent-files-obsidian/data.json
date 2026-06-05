@@ -1,20 +1,120 @@
 {
   "recentFiles": [
     {
+      "basename": "Start Here",
+      "path": "Start Here.md"
+    },
+    {
+      "basename": "Ensure Backups and Redundancies are Rock Solid",
+      "path": "5. Report Fast and Respond Correctly/Ensure Backups and Redundancies are Rock Solid.md"
+    },
+    {
       "basename": "_AI ideas for sections in modules",
       "path": "_AI ideas for sections in modules.md"
     },
     {
-      "basename": "Grant and Use Only Necessary Access",
-      "path": "2. Protect Accounts and Access/Grant and Use Only Necessary Access.md"
+      "basename": "Report Mistakes Without Delay or Shame",
+      "path": "5. Report Fast and Respond Correctly/Report Mistakes Without Delay or Shame.md"
+    },
+    {
+      "basename": "Prepare and Exercise the Incident Response Plan",
+      "path": "5. Report Fast and Respond Correctly/Prepare and Exercise the Incident Response Plan.md"
+    },
+    {
+      "basename": "Take the Correct First Actions",
+      "path": "5. Report Fast and Respond Correctly/Take the Correct First Actions.md"
+    },
+    {
+      "basename": "Know How to Report",
+      "path": "5. Report Fast and Respond Correctly/Know How to Report.md"
+    },
+    {
+      "basename": "Know What Counts as an Incident",
+      "path": "5. Report Fast and Respond Correctly/Know What Counts as an Incident.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Tools for Cybersecurity",
+      "path": "Further Study/Tools for Cybersecurity.md"
+    },
+    {
+      "basename": "index",
+      "path": "Further Study/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "4. Keep Devices, Software, and Workflows Secure/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "5. Report Fast and Respond Correctly/index.md"
+    },
+    {
+      "basename": "Vocabulary",
+      "path": "Further Study/Vocabulary.md"
+    },
+    {
+      "basename": "Protect Devices in and Outside the Office",
+      "path": "4. Keep Devices, Software, and Workflows Secure/Protect Devices in and Outside the Office.md"
+    },
+    {
+      "basename": "Systems Hardening and Protective Controls",
+      "path": "4. Keep Devices, Software, and Workflows Secure/Systems Hardening and Protective Controls.md"
+    },
+    {
+      "basename": "Vulnerability Scanning and Management",
+      "path": "4. Keep Devices, Software, and Workflows Secure/Vulnerability Scanning and Management.md"
+    },
+    {
+      "basename": "Recognize and Report Unusual Device Behavior",
+      "path": "4. Keep Devices, Software, and Workflows Secure/Recognize and Report Unusual Device Behavior.md"
+    },
+    {
+      "basename": "Use Only Approved Devices and Software",
+      "path": "4. Keep Devices, Software, and Workflows Secure/Use Only Approved Devices and Software.md"
+    },
+    {
+      "basename": "Install Updates and Restart Promptly",
+      "path": "4. Keep Devices, Software, and Workflows Secure/Install Updates and Restart Promptly.md"
+    },
+    {
+      "basename": "Establish Data Governance and Mitigate Risk",
+      "path": "3. Handle Data Safely/Establish Data Governance and Mitigate Risk.md"
+    },
+    {
+      "basename": "Use Approved Tools and AI Services",
+      "path": "3. Handle Data Safely/Use Approved Tools and AI Services.md"
+    },
+    {
+      "basename": "Share Data Safely",
+      "path": "3. Handle Data Safely/Share Data Safely.md"
+    },
+    {
+      "basename": "Use the Minimum Necessary Data",
+      "path": "3. Handle Data Safely/Use the Minimum Necessary Data.md"
+    },
+    {
+      "basename": "Identify Sensitive Information",
+      "path": "3. Handle Data Safely/Identify Sensitive Information.md"
     },
     {
       "basename": "Manage the Full Account Lifecycle",
       "path": "2. Protect Accounts and Access/Manage the Full Account Lifecycle.md"
     },
     {
-      "basename": "Verify Authentication and Privileged Access Controls",
-      "path": "2. Protect Accounts and Access/Verify Authentication and Privileged Access Controls.md"
+      "basename": "Build Fraud-Resistant Business Processes and Culture",
+      "path": "1. Defeat Social Engineering/Build Fraud-Resistant Business Processes and Culture.md"
+    },
+    {
+      "basename": "Top Attack Vector → Social Engineering",
+      "path": "1. Defeat Social Engineering/Top Attack Vector → Social Engineering.md"
+    },
+    {
+      "basename": "Grant and Use Only Necessary Access",
+      "path": "2. Protect Accounts and Access/Grant and Use Only Necessary Access.md"
     },
     {
       "basename": "Never Share Accounts or Authentication Methods",
@@ -53,24 +153,8 @@
       "path": "1. Defeat Social Engineering/Practical Exercise and Quiz.md"
     },
     {
-      "basename": "Top Attack Vector → Social Engineering",
-      "path": "1. Defeat Social Engineering/Top Attack Vector → Social Engineering.md"
-    },
-    {
       "basename": "_Stephen Test doc 1",
       "path": "_Stephen Test doc 1.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Measure Social Engineering Readiness",
-      "path": "1. Defeat Social Engineering/Measure Social Engineering Readiness.md"
-    },
-    {
-      "basename": "Build Fraud-Resistant Business Processes",
-      "path": "1. Defeat Social Engineering/Build Fraud-Resistant Business Processes.md"
     },
     {
       "basename": "Verify High-Risk Requests Through a Separate Channel",

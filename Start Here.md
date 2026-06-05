@@ -25,8 +25,16 @@ The goal of cybersecurity awareness is to lessen the likelihood and impact of th
 - **Understand and Advance** - The ST5 course student departs with a deep appreciation of all the behavioral, organizational and technical aspects their company must get right to be secure.
 - **Assess Current Status** - After learning about the threats, risks and mitigations available to deploy, the user is informed to help make sure their organization has all the right preventions in place and to see what may be lacking.
 
+#### Across the enterprise the aim from our perspective on cybersecurity awareness is:
+
+- **Employees** prevent and report
+- **Managers** enforce secure processes
+- **Executives** verify that the organization is prepared
+
 
 ![[Lock-of-lights-in-hand.jpg]]
+
+
 
 
 ## Course Elements
@@ -45,38 +53,57 @@ We separate the course into 5 modules. In cybersecurity this is a tight fit, as 
 
 ## Modules
 
-We have organized our modules into 5 parts which group together the highest impact areas of awareness that help ensure your organization's security.
+The ST5 course is organized into 5 modules which group together the highest impact areas of awareness that help ensure your organization's security.
+
+**For each module, to make sure you learn and absorb all the material, please make sure to:**
+
+- Go through every section in a module, preferably top to bottom but you can jump around within a module as you wish.
+- View all the videos, as a lot of the material (including what will appear in the quizzes!) is only contained within them.
+- Read the written material and open the external links to see the original sources, especially key if it's noted that a quiz answer will come from there.
+- Perform the Practical Exercise after you have absorbed all the learning from the module, and enter your work for it in our testing platform. SEIRIM will have provided a username and password for you to use in the system.
+- Take the quiz for the module while the information is fresh in your mind, you are free to take the quiz at any time once you've completed viewing and reading the module's material.
 
 **The modules:**
 
-### 1. Social Engineering
+### 1. Defeat Social Engineering
 
 As one of the main, top attack vectors defeating social engineering attacks making sure every person in the company is very well aware of the risks and how to be more vigilant in not falling prey to them is of paramount importance.
 
 
-### 2. Identity and Access Management
+### 2. Protect Accounts and Access
 
 Proper security and maintenance of who has access to what and how it is managed is important to maximize security preparedness.
 
+Staff have the responsibility to help protect their own accounts, while leadership ensures that access is granted, reviewed, and removed appropriately across the company.
 
-### 3. Cybersecurity Best Practices
+
+### 3. Handle Data Safely
 
 From top to bottom, we bring together in context all the "must know" but not always commonly followed or intuitively adhered to practices that are key to security.
 
+The overall objective is for staff to learn how to handle information responsibly, while leadership works to implement a process whereby the company always knows what sensitive data it has, where it is stored, and who can access it.
 
-### 4. Vulnerability Management and Systems Hardening
+
+### 4. Keep Devices, Software and Workflows Secure
+
+A major objective is for staff to avoid weakening their devices, while leadership ensures that the company identifies, patches, hardens, monitors, and protects its technology.
 
 One of the most important components to better security is to routinely scan and search for vulnerabilities and then follow up with the resolution of all issues found, especially critical ones. 
 
-From there, systems hardening refers to manually and purposefully adjusting settings, configurations and choices all throughout the enterprise to minimize the attack surface.
+From there, systems hardening is applied to manually and purposefully adjusting settings, configurations and choices all throughout the enterprise to minimize the attack surface.
 
 
-### 5. Incident Response
+### 5. Report Fast and Respond Correctly
 
 Cybersecurity attacks and incidents are inevitable. The goals are to prevent them from succeeding, and to respond them in the most effective way possible when they do happen to minimize their impact.
 
 The key to the ideal response and minimizing impacts is preparation and investments in backups and resiliency in data, services, capabilities, personnel roles and more.
 
+The goal is for staff to report incidents quickly while minimizing impacts with their actions, while leadership ensures the company can detect, respond to, and recover from serious events.
+
+#### Further Study
+
+Also read through the "Further Study" section, especially the [[Vocabulary]] page, to make you are familiar with every listed cybersecurity paradigm listed there as these concepts are important pillars in strong security.
 
 
-
+#### Let's get started!
