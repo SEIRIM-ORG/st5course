@@ -4,6 +4,10 @@ order: "70"
 ---
 In this section we cover the practice to pause before interacting with a suspicious message, inspect the key warning signs, and choose the safest next action before clicking a link, opening an attachment, scanning a QR code, replying to a request, or entering login details.
 
+
+![[Tech-lock-blue background.jpg]]
+
+
 ### Why This Matters
 
 Many social engineering attacks succeed because the victim reacts too quickly. The message may look ordinary: a document to review, an invoice to approve, a delivery update, a shared file, a password reset, or a request from a manager. The danger is not always obvious.

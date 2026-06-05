@@ -5,7 +5,11 @@ order: "80"
 When most people think of phishing and social engineering attacks, we jump to two predominant examples: email and SMS messages. These medium are among the most common, but hackers are saturating every available avenue of approach through your personal and corporate defenses. 
 
 In today's world of AI supercharging attackers efforts - be cognizant that the old methods of looking for misspellings and bad grammar in the communication isn't enough, now with little effort they are able to make messages that look professional, use correct grammar, and appear to come from a legitimate account while still being malicious.
-
+<br>
+<br>
+![[Green-tech-background-man-looking-screen.jpg]]
+<br>
+<br>
 ## Everything, Everywhere All at Once
 
 

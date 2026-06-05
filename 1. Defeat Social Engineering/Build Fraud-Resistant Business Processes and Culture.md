@@ -7,6 +7,10 @@ Business managers and executives should understand that social engineering is no
 Employees should know when to slow down and verify. Managers and executives should know how to build processes that make it difficult for fraud to succeed, even when a message looks convincing or appears to come from a trusted person.
 <br>
 <br>
+![[Business-group-at-table.jpg]]
+<br>
+<br>
+
 ### Why This Matters
 
 Social engineering works because attackers exploit normal business behavior. They know employees want to be helpful, respond quickly, respect authority, avoid conflict, and solve problems.

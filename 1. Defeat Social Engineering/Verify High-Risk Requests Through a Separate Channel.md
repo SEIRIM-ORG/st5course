@@ -7,6 +7,9 @@ order: "60"
 Staff should be able to identify high-risk requests, stop before acting, and verify the request through a trusted communication channel that is separate from the original message.
 <br>
 <br>
+![[Lady-on-laptop-and-phone.jpg]]
+<br>
+<br>
 
 ### Why This Matters
 

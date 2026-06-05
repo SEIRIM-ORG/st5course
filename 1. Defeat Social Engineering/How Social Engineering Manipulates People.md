@@ -7,75 +7,92 @@ Social engineering works because it targets people under normal business pressur
 A message may appear to come from a manager, supplier, bank, colleague, or familiar platform, so the victim reacts before verifying. Busy employees often prioritize speed, politeness, and problem-solving, which attackers deliberately weaponize. 
 
 Modern scams also use accurate branding, stolen information, compromised accounts, and AI-generated language, making them harder to spot. The best defense is a disciplined pause: inspect, verify through a trusted channel, and report anything suspicious immediately, without delay.
+<br>
+<br>
+
+![[Concerned business woman green shirt.jpg]]
+
+<br>
+<br>
 
 ## Psychological Triggers Social Engineering Preys Upon
 
 
 **Here are the top 10 psychological elements social engineering attacks exploit:**
-
+<br>
+<br>
 ### 1. Authority
     
 
 People are more likely to comply when a request appears to come from a CEO, manager, IT admin, bank officer, government agency, or law enforcement.
 
 Example: “This is IT. We need your MFA code to verify your account.”
-
+<br>
+<br>
 ### 2. Urgency
     
 
 Attackers create time pressure so the target acts before thinking.
 
 Example: “Your account will be locked in 10 minutes unless you verify now.”
-
+<br>
+<br>
 ### 3. Fear
     
 
 Fear pushes people into defensive action, especially around money, job security, legal trouble, or account compromise.
 
 Example: “Suspicious activity detected. Click here to secure your account.”
-
+<br>
+<br>
 ### 4. Trust
     
 
 Attackers imitate familiar brands, coworkers, vendors, clients, or platforms to lower suspicion.
 
 Example: A fake Microsoft 365 login page that looks legitimate.
-
+<br>
+<br>
 ### 5. Curiosity
     
 
 People click because they want to know more, especially when the message is vague, personal, or surprising.
 
 Example: “Is this you in this video?”
-
+<br>
+<br>
 ### 6. Greed / reward-seeking
     
 
 The attacker offers something valuable: money, discounts, prizes, refunds, free software, job offers, or exclusive access.
 
 Example: “You’ve been selected for a $500 gift card.”
-
+<br>
+<br>
 ### 7. Helpfulness
     
 
 Many people want to be cooperative, especially at work. Attackers exploit employees who do not want to seem rude or obstructive.
 
 Example: “I’m locked out before a client call. Can you quickly send me the file?”
-
+<br>
+<br>
 ### 8. Social proof
     
 
 People trust something more when it appears others have already accepted it.
 
 Example: “Several people from your department already completed this security update.”
-
+<br>
+<br>
 ### 9. Reciprocity
     
 
 When someone appears to offer help, a favor, or useful information, the target may feel obligated to respond.
 
 Example: A fake vendor sends “helpful” documentation, then asks for account access or payment details.
-
+<br>
+<br>
 ### 10. Convenience / laziness
     
 
