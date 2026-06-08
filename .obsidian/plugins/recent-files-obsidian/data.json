@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Build Fraud-Resistant Business Processes and Culture",
-      "path": "1. Defeat Social Engineering/Build Fraud-Resistant Business Processes and Culture.md"
+      "basename": "Never Share Accounts or Authentication Methods",
+      "path": "2. Protect Accounts and Access/Never Share Accounts or Authentication Methods.md"
+    },
+    {
+      "basename": "Practical Exercise and Quiz",
+      "path": "2. Protect Accounts and Access/Practical Exercise and Quiz.md"
+    },
+    {
+      "basename": "_Live call Discussion Points - Module 2",
+      "path": "2. Protect Accounts and Access/_Live call Discussion Points - Module 2.md"
+    },
+    {
+      "basename": "Use MFA Correctly",
+      "path": "2. Protect Accounts and Access/Use MFA Correctly.md"
+    },
+    {
+      "basename": "Use Strong Passwords and Management",
+      "path": "2. Protect Accounts and Access/Use Strong Passwords and Management.md"
     },
     {
       "basename": "How Social Engineering Manipulates People",
       "path": "1. Defeat Social Engineering/How Social Engineering Manipulates People.md"
     },
     {
-      "basename": "Top Attack Vector → Social Engineering",
-      "path": "1. Defeat Social Engineering/Top Attack Vector → Social Engineering.md"
-    },
-    {
-      "basename": "Verify High-Risk Requests Through a Separate Channel",
-      "path": "1. Defeat Social Engineering/Verify High-Risk Requests Through a Separate Channel.md"
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Recognize Attacks Across Different Channels",
       "path": "1. Defeat Social Engineering/Recognize Attacks Across Different Channels.md"
+    },
+    {
+      "basename": "Top Attack Vector → Social Engineering",
+      "path": "1. Defeat Social Engineering/Top Attack Vector → Social Engineering.md"
+    },
+    {
+      "basename": "Build Fraud-Resistant Business Processes and Culture",
+      "path": "1. Defeat Social Engineering/Build Fraud-Resistant Business Processes and Culture.md"
+    },
+    {
+      "basename": "Verify High-Risk Requests Through a Separate Channel",
+      "path": "1. Defeat Social Engineering/Verify High-Risk Requests Through a Separate Channel.md"
     },
     {
       "basename": "Inspect Before Clicking, Opening, Scanning, or Replying",
@@ -63,10 +87,6 @@
     {
       "basename": "Know What Counts as an Incident",
       "path": "5. Report Fast and Respond Correctly/Know What Counts as an Incident.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Tools for Cybersecurity",
@@ -141,18 +161,6 @@
       "path": "2. Protect Accounts and Access/Grant and Use Only Necessary Access.md"
     },
     {
-      "basename": "Never Share Accounts or Authentication Methods",
-      "path": "2. Protect Accounts and Access/Never Share Accounts or Authentication Methods.md"
-    },
-    {
-      "basename": "Use MFA Correctly",
-      "path": "2. Protect Accounts and Access/Use MFA Correctly.md"
-    },
-    {
-      "basename": "Use Strong Passwords and Management",
-      "path": "2. Protect Accounts and Access/Use Strong Passwords and Management.md"
-    },
-    {
       "basename": "_Git commands to make live",
       "path": "_Git commands to make live.md"
     },
@@ -167,10 +175,6 @@
     {
       "basename": "Practical Exercise and Quiz",
       "path": "3. Handle Data Safely/Practical Exercise and Quiz.md"
-    },
-    {
-      "basename": "Practical Exercise and Quiz",
-      "path": "2. Protect Accounts and Access/Practical Exercise and Quiz.md"
     },
     {
       "basename": "_Stephen Test doc 1",

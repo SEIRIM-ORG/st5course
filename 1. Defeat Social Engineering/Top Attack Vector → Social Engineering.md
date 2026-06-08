@@ -288,10 +288,7 @@ Many sources reported that the program actually decreased system stability and p
 
 ## Takeaways
 
-There are many more cyber attacks used to get sensitive information and/or earn money. Cyber attackers are very creative and innovative. 
+There are many cyber attacks used to get sensitive information and/or earn money. Cyber attackers are very creative and innovative. 
 
-When receiving a message or phone call and you find it suspicious, just hang up and call back to the organization or person you talked to. Talk to your family members and make up a secret word for emergencies that only you know and if something happens, use this word as a password so you know that person you are talking to is real, not a pretender with an AI generated voice. 
+When receiving a message or phone call and you find it suspicious, just hang up and call back to the organization or person using known good numbers. 
 
----
-
-In the next lesson we will be analyzing phishing emails more in detail: how to identify them and what to do in case you after all opened a suspicious email and clicked a link. See you in the next lesson!

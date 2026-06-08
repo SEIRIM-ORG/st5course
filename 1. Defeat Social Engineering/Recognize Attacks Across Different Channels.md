@@ -52,7 +52,7 @@ In today's world of AI supercharging attackers efforts - be cognizant that the o
 
 The takeaway here is that a cybersecurity attack can come from any and every angle. We must all always be skeptical of every bit of incoming communication, information, media and more.
 
-### Can also remember to be vigilant across multiple vector types:
+### Remember to be vigilant across multiple vector types:
 
 - **Digital vectors:** email, SMS, phone, social media, messaging apps, collaboration tools, video meetings, websites, QR codes, support portals.
 
