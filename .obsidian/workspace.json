@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Protect Accounts and Access/Never Share Accounts or Authentication Methods.md",
+                "file": "2. Protect Accounts and Access/Manage the Full Account Lifecycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Never Share Accounts or Authentication Methods"
+              "title": "Manage the Full Account Lifecycle"
             }
           }
         ],
@@ -224,8 +224,12 @@
   "active": "7cb8c1e231a112ad",
   "lastOpenFiles": [
     "2. Protect Accounts and Access/Practical Exercise and Quiz.md",
-    "2. Protect Accounts and Access/Never Share Accounts or Authentication Methods.md",
+    "2. Protect Accounts and Access/Manage the Full Account Lifecycle.md",
+    "2. Protect Accounts and Access/Grant and Use Only Necessary Access.md",
     "2. Protect Accounts and Access/_Live call Discussion Points - Module 2.md",
+    "Checklist-guy.jpg",
+    "Exec-on-phone-laptop.jpg",
+    "2. Protect Accounts and Access/Never Share Accounts or Authentication Methods.md",
     "2. Protect Accounts and Access/Use MFA Correctly.md",
     "Quizzical-folks.jpg",
     "Pasted image 20260608164915.png",
@@ -242,8 +246,6 @@
     "1. Defeat Social Engineering/Verify High-Risk Requests Through a Separate Channel.md",
     "Lady-on-laptop-and-phone.jpg",
     "Business-group-at-table.jpg",
-    "Green-tech-background-man-looking-screen.jpg",
-    "Concerned business woman green shirt.jpg",
     "1. Defeat Social Engineering/Inspect Before Clicking, Opening, Scanning, or Replying.md",
     "1. Defeat Social Engineering/Practical Exercise and Quiz.md",
     "1. Defeat Social Engineering/_Live Call Discussion Points - Mod 1.md",
@@ -257,7 +259,6 @@
     "5. Report Fast and Respond Correctly/Know What Counts as an Incident.md",
     "Further Study/Tools for Cybersecurity.md",
     "Further Study/index.md",
-    "4. Keep Devices, Software, and Workflows Secure/index.md",
     "Further Study",
     "static/favicon.ico",
     "static",

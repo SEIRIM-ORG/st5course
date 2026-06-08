@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Never Share Accounts or Authentication Methods",
-      "path": "2. Protect Accounts and Access/Never Share Accounts or Authentication Methods.md"
+      "basename": "Manage the Full Account Lifecycle",
+      "path": "2. Protect Accounts and Access/Manage the Full Account Lifecycle.md"
     },
     {
       "basename": "Practical Exercise and Quiz",
       "path": "2. Protect Accounts and Access/Practical Exercise and Quiz.md"
     },
     {
+      "basename": "Grant and Use Only Necessary Access",
+      "path": "2. Protect Accounts and Access/Grant and Use Only Necessary Access.md"
+    },
+    {
       "basename": "_Live call Discussion Points - Module 2",
       "path": "2. Protect Accounts and Access/_Live call Discussion Points - Module 2.md"
+    },
+    {
+      "basename": "Never Share Accounts or Authentication Methods",
+      "path": "2. Protect Accounts and Access/Never Share Accounts or Authentication Methods.md"
     },
     {
       "basename": "Use MFA Correctly",
@@ -151,14 +159,6 @@
     {
       "basename": "Identify Sensitive Information",
       "path": "3. Handle Data Safely/Identify Sensitive Information.md"
-    },
-    {
-      "basename": "Manage the Full Account Lifecycle",
-      "path": "2. Protect Accounts and Access/Manage the Full Account Lifecycle.md"
-    },
-    {
-      "basename": "Grant and Use Only Necessary Access",
-      "path": "2. Protect Accounts and Access/Grant and Use Only Necessary Access.md"
     },
     {
       "basename": "_Git commands to make live",

@@ -393,3 +393,245 @@ C. Whether teams prefer fast access
 D. Whether shared passwords are easy to find
 
 **Correct answer:** A
+
+
+
+---
+
+
+
+### Grant and Use only necessary access
+
+
+### Practical Exercise
+
+Classify each behavior as safe or unsafe.
+
+#### Behavior 1
+
+An employee requests view-only access to a report because they only need to read it.
+
+Expected answer:
+
+Safe.
+
+#### Behavior 2
+
+A manager gives a new employee access to every department folder so they can “find what they need.”
+
+Expected answer:
+
+Unsafe.
+
+#### Behavior 3
+
+A contractor is given access to a project folder with an expiration date.
+
+Expected answer:
+
+Safe.
+
+#### Behavior 4
+
+A former employee’s account remains active because nobody told IT to remove it.
+
+Expected answer:
+
+Unsafe.
+
+#### Behavior 5
+
+An employee approves a third-party app that asks to read all company files because the app looks useful.
+
+Expected answer:
+
+Unsafe.
+
+#### Behavior 6
+
+A manager reviews team access and removes permissions that are no longer needed.
+
+Expected answer:
+
+Safe.
+
+### Short Knowledge Check
+
+**Question 1:** What is the safest access principle?
+
+A. Give everyone broad access so work moves quickly  
+B. Give people the minimum access needed for their role  
+C. Give access permanently once approved  
+D. Give access based on seniority
+
+**Correct answer:** B
+
+**Question 2:** Why is excessive access dangerous?
+
+A. It makes systems slower  
+B. It increases the damage if an account is compromised or misused  
+C. It prevents people from working  
+D. It only affects IT staff
+
+**Correct answer:** B
+
+**Question 3:** What should you do if you still have access to a system from an old role?
+
+A. Keep it in case you need it later  
+B. Ignore it  
+C. Report it so the access can be reviewed or removed  
+D. Share it with your replacement
+
+**Correct answer:** C
+
+**Question 4:** What is the best permission level when someone only needs to read a document?
+
+A. Owner  
+B. Administrator  
+C. Edit  
+D. View
+
+**Correct answer:** D
+
+**Question 5:** What should leadership verify?
+
+A. Whether access is granted, reviewed, and removed properly  
+B. Whether everyone has access to everything  
+C. Whether employees can bypass approval when busy  
+D. Whether contractors can keep access after projects end
+
+**Correct answer:** A
+
+
+----
+
+
+### Manage the Full Account Lifecycle
+
+
+
+### Practical Exercise
+
+Ask learners to classify each situation as safe or unsafe.
+
+#### Situation 1
+
+A new employee receives access based on a defined role profile and manager approval.
+
+Expected answer:
+
+Safe.
+
+#### Situation 2
+
+A new employee receives the same access as a long-serving employee without review.
+
+Expected answer:
+
+Unsafe.
+
+#### Situation 3
+
+A contractor’s access automatically expires at the end of the project unless renewed.
+
+Expected answer:
+
+Safe.
+
+#### Situation 4
+
+A former employee still appears in the user list for a cloud storage platform.
+
+Expected answer:
+
+Unsafe.
+
+#### Situation 5
+
+A manager reviews team access after a department restructure and removes unnecessary permissions.
+
+Expected answer:
+
+Safe.
+
+#### Situation 6
+
+An employee keeps admin access after finishing a temporary system migration project.
+
+Expected answer:
+
+Unsafe.
+
+### Manager and Executive Exercise
+
+Ask managers and executives to answer:
+
+1. What systems must be included in offboarding?
+    
+2. Who tells IT when someone leaves?
+    
+3. Who tells IT when someone changes roles?
+    
+4. How are contractor end dates tracked?
+    
+5. How often are access reviews performed?
+    
+6. Which systems contain the most sensitive data?
+    
+7. Which roles have administrator access?
+    
+8. How do we know old access is actually removed?
+    
+9. What evidence can we produce from the last five departures?
+    
+10. What evidence can we produce from the last five role changes?
+    
+
+This exercise exposes whether account lifecycle management is real or assumed.
+
+### Short Knowledge Check
+
+**Question 1:** What are the three main account lifecycle events?
+
+A. Click, open, reply  
+B. Joiner, mover, leaver  
+C. Password, code, device  
+D. Email, browser, phone
+
+**Correct answer:** B
+
+**Question 2:** What is access creep?
+
+A. When employees forget their passwords  
+B. When people accumulate unnecessary access over time  
+C. When MFA prompts appear repeatedly  
+D. When a system runs slowly
+
+**Correct answer:** B
+
+**Question 3:** What should happen when an employee changes roles?
+
+A. They should keep all old access just in case  
+B. They should receive new access and have old access reviewed  
+C. Their MFA should be removed  
+D. Their account should be shared with their replacement
+
+**Correct answer:** B
+
+**Question 4:** Why are dormant accounts risky?
+
+A. They are easier for employees to remember  
+B. They may be forgotten and abused without detection  
+C. They improve productivity  
+D. They remove the need for access reviews
+
+**Correct answer:** B
+
+**Question 5:** What should leadership verify?
+
+A. Whether account creation, role changes, reviews, and removals are documented and working  
+B. Whether employees can create their own accounts  
+C. Whether former employees can still access project files  
+D. Whether contractors keep access indefinitely
+
+**Correct answer:** A

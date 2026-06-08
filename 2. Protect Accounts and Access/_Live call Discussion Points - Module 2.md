@@ -166,3 +166,189 @@ The executive question is not only:
 The stronger question is:
 
 “Can we prove who accessed what, when, and why?”
+
+
+
+____
+
+### Grant and Use only Necessary Access
+
+
+### What Employees Should Not Do
+
+Employees should not:
+
+- Ask for access without a business reason
+    
+- Grant access because it is faster than checking
+    
+- Share sensitive folders with broad groups
+    
+- Use “anyone with the link” unless specifically approved
+    
+- Give external users permanent access by default
+    
+- Leave former contractors in project spaces
+    
+- Use administrator access for normal daily tasks
+    
+- Approve access requests without understanding who needs access and why
+    
+- Ignore systems or folders they can still access after changing roles
+    
+- Connect unapproved apps to company accounts
+    
+- Share files from personal accounts or personal cloud storage
+    
+- Assume IT will automatically know when access is no longer needed
+
+
+
+
+### Discussion Scenario
+
+A project manager creates a cloud folder for a client project. To save time, they share the entire folder with “anyone with the link” and give edit access to everyone on the project, including three external contractors.
+
+The project ends, but the link remains active.
+
+Ask learners:
+
+1. What access mistakes were made?
+    
+2. What could happen if the link is forwarded or exposed?
+    
+3. What access level should have been used?
+    
+4. When should access have been removed?
+    
+5. What should managers and executives verify about external sharing?
+    
+
+Expected answer:
+
+The folder was shared too broadly, edit access was given unnecessarily, external access was not controlled, and access was not removed after the project ended. The safer approach would be to share only the necessary files, grant the lowest needed permission, restrict external users, and remove access when the project ended. Leadership should verify that external sharing is monitored and reviewed.
+
+
+
+
+
+----
+
+
+### Manage the Full Account Life Cycle
+
+
+### Questions Leaders Should Ask
+
+Executives and key staff should ask:
+
+1. Who owns the joiner, mover, and leaver process?
+    
+2. How quickly are accounts disabled when someone leaves?
+    
+3. What happens when an employee changes roles?
+    
+4. Are old permissions removed when new permissions are added?
+    
+5. Are contractors given access expiration dates?
+    
+6. Are vendor accounts reviewed periodically?
+    
+7. Are dormant accounts identified and disabled?
+    
+8. Are administrator accounts reviewed more frequently?
+    
+9. Are shared accounts documented and controlled?
+    
+10. Are service accounts assigned to owners?
+    
+11. Are access reviews actually resulting in removals?
+    
+12. Are HR, managers, IT, and security aligned on account changes?
+    
+13. Are urgent or involuntary departures handled differently?
+    
+14. Can we produce a current list of users with access to critical systems?
+    
+15. Can we prove that former employees no longer have access?
+    
+
+### Evidence Leaders Should Request
+
+Useful evidence includes:
+
+- Joiner, mover, and leaver procedure
+    
+- New hire access checklist
+    
+- Role-change access checklist
+    
+- Offboarding checklist
+    
+- Account creation records
+    
+- Access approval records
+    
+- Account disablement records
+    
+- Dormant account reports
+    
+- Former employee access review
+    
+- Contractor access list
+    
+- Vendor access list
+    
+- Privileged-account inventory
+    
+- Shared-account inventory
+    
+- Service account inventory
+    
+- Emergency account procedure
+    
+- MFA coverage report
+    
+- Access review reports
+    
+- Exception register
+    
+- Logs showing account disablement after departure
+    
+
+Leadership should not accept “we remove access when people leave” as enough. They should request evidence from a recent sample of departures and role changes.
+
+
+
+### Warning Signs of Weak Account Lifecycle Management
+
+The company may have a weak process if:
+
+- Managers do not know who approves access
+    
+- IT learns about departures after the employee has already left
+    
+- Contractors keep accounts after projects end
+    
+- Former employees appear in system user lists
+    
+- Employees retain access from old roles
+    
+- Admin accounts are not reviewed
+    
+- Shared accounts are common
+    
+- Temporary accounts do not expire
+    
+- Nobody owns service accounts
+    
+- Access reviews are performed but nothing is removed
+    
+- There is no documented offboarding checklist
+    
+- HR, IT, and managers use separate disconnected processes
+    
+- Access is granted through informal email requests without approval records
+    
+
+These are not small administrative gaps. They are conditions attackers can exploit.
