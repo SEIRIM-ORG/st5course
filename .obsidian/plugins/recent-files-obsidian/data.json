@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Establish Data Governance and Mitigate Risk",
+      "path": "3. Handle Data Safely/Establish Data Governance and Mitigate Risk.md"
+    },
+    {
+      "basename": "_Live call discussion points - Module 3",
+      "path": "3. Handle Data Safely/_Live call discussion points - Module 3.md"
+    },
+    {
+      "basename": "Practical Exercise and Quiz",
+      "path": "3. Handle Data Safely/Practical Exercise and Quiz.md"
+    },
+    {
+      "basename": "Identify Sensitive Information",
+      "path": "3. Handle Data Safely/Identify Sensitive Information.md"
+    },
+    {
+      "basename": "Use Approved Tools and AI Services",
+      "path": "3. Handle Data Safely/Use Approved Tools and AI Services.md"
+    },
+    {
+      "basename": "Share Data Safely",
+      "path": "3. Handle Data Safely/Share Data Safely.md"
+    },
+    {
+      "basename": "Use the Minimum Necessary Data",
+      "path": "3. Handle Data Safely/Use the Minimum Necessary Data.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "Start Here.md"
+    },
+    {
       "basename": "Manage the Full Account Lifecycle",
       "path": "2. Protect Accounts and Access/Manage the Full Account Lifecycle.md"
     },
@@ -63,10 +95,6 @@
     {
       "basename": "_Live Call Discussion Points - Mod 1",
       "path": "1. Defeat Social Engineering/_Live Call Discussion Points - Mod 1.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "Start Here.md"
     },
     {
       "basename": "Ensure Backups and Redundancies are Rock Solid",
@@ -141,26 +169,6 @@
       "path": "4. Keep Devices, Software, and Workflows Secure/Install Updates and Restart Promptly.md"
     },
     {
-      "basename": "Establish Data Governance and Mitigate Risk",
-      "path": "3. Handle Data Safely/Establish Data Governance and Mitigate Risk.md"
-    },
-    {
-      "basename": "Use Approved Tools and AI Services",
-      "path": "3. Handle Data Safely/Use Approved Tools and AI Services.md"
-    },
-    {
-      "basename": "Share Data Safely",
-      "path": "3. Handle Data Safely/Share Data Safely.md"
-    },
-    {
-      "basename": "Use the Minimum Necessary Data",
-      "path": "3. Handle Data Safely/Use the Minimum Necessary Data.md"
-    },
-    {
-      "basename": "Identify Sensitive Information",
-      "path": "3. Handle Data Safely/Identify Sensitive Information.md"
-    },
-    {
       "basename": "_Git commands to make live",
       "path": "_Git commands to make live.md"
     },
@@ -171,10 +179,6 @@
     {
       "basename": "Practical Exercise and Quiz",
       "path": "4. Keep Devices, Software, and Workflows Secure/Practical Exercise and Quiz.md"
-    },
-    {
-      "basename": "Practical Exercise and Quiz",
-      "path": "3. Handle Data Safely/Practical Exercise and Quiz.md"
     },
     {
       "basename": "_Stephen Test doc 1",

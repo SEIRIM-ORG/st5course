@@ -103,7 +103,7 @@ The goal is for staff to report incidents quickly while minimizing impacts with 
 
 #### Further Study
 
-Also read through the "Further Study" section, especially the [[Vocabulary]] page, to make you are familiar with every listed cybersecurity paradigm listed there as these concepts are important pillars in strong security.
+Also read through the "Further Study" section, especially the [[Vocabulary]] page, to make you are familiar with every cybersecurity paradigm listed there as these concepts are important pillars in strong security.
 
 
 #### Let's get started!
