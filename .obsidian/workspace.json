@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Study/Tools for Cybersecurity.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools for Cybersecurity"
+              "title": "Home"
             }
           }
         ],
@@ -223,10 +223,17 @@
   },
   "active": "7cb8c1e231a112ad",
   "lastOpenFiles": [
-    "Blue-lock-on-dark-circuit-board.jpg",
+    "Woman-with-tablet-next-to-plant.jpg",
+    "_Start Here.md",
+    "Home.md",
+    "Further Study/Tools for Cybersecurity.md",
+    "Further Study/Executive Takeaway → Make Cybersecurity Operational.md",
+    "Further Study/Security Checklists and Worksheets.md",
+    "SEIRIM Cybersecurity Workbook screenshot.png",
     "Further Study/Vocabulary.md",
+    "Blue-lock-digital-wall.jpg",
+    "Blue-lock-on-dark-circuit-board.jpg",
     "Social-engineering-text-within-code.jpg",
-    "Further Study/Executive Capstone - Make Cybersecurity Operational.md",
     "Further Study/_Live Call Discussion Points - Further Study.md",
     "Executive-in-data-center.jpg",
     "5. Report Fast and Respond Correctly/Ensure Backups and Redundancies are Rock Solid.md",
@@ -245,20 +252,13 @@
     "4. Keep Devices, Software, and Workflows Secure/Systems Hardening and Protective Controls.md",
     "4. Keep Devices, Software, and Workflows Secure/Practical Exercise and Quiz.md",
     "4. Keep Devices, Software, and Workflows Secure/_Live Call Discussion Points - Module 4.md",
-    "IT-worker-in-data-center.jpg",
     "4. Keep Devices, Software, and Workflows Secure/Vulnerability Scanning and Management.md",
-    "Hacker-dice-among-black-dice.jpg",
     "4. Keep Devices, Software, and Workflows Secure/Recognize and Report Unusual Device Behavior.md",
-    "Alert-red-triangle.jpg",
     "4. Keep Devices, Software, and Workflows Secure/Protect Devices In and Outside the Office.md",
     "4. Keep Devices, Software, and Workflows Secure/Use Only Approved Devices and Software.md",
     "4. Keep Devices, Software, and Workflows Secure/Install Updates and Restart Promptly.md",
     "3. Handle Data Safely/Establish Data Governance and Mitigate Risk.md",
     "3. Handle Data Safely/_Live call discussion points - Module 3.md",
-    "3. Handle Data Safely/Practical Exercise and Quiz.md",
-    "3. Handle Data Safely/Identify Sensitive Information.md",
-    "3. Handle Data Safely/Use Approved Tools and AI Services.md",
-    "3. Handle Data Safely/Share Data Safely.md",
     "Further Study",
     "static/favicon.ico",
     "static",

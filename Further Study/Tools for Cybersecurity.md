@@ -25,7 +25,7 @@ This appendix lists open source, free, commonly bundled, low-cost, or affordable
 
 We don't necessarily endorse all of these for every use case, but think they are worth considering. Each organization should review current pricing, licensing, hosting model, data handling, security features, support, and internal capability before adopting any tool.
 
-## How to Use This Table
+## How to Use
 
 |Question|What to Look For|
 |---|---|

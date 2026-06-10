@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Woman-with-tablet-next-to-plant",
+      "path": "Woman-with-tablet-next-to-plant.jpg"
+    },
+    {
+      "basename": "_Start Here",
+      "path": "_Start Here.md"
+    },
+    {
       "basename": "Tools for Cybersecurity",
       "path": "Further Study/Tools for Cybersecurity.md"
     },
     {
-      "basename": "Vocabulary",
-      "path": "Further Study/Vocabulary.md"
+      "basename": "Executive Takeaway → Make Cybersecurity Operational",
+      "path": "Further Study/Executive Takeaway → Make Cybersecurity Operational.md"
     },
     {
-      "basename": "Executive Capstone - Make Cybersecurity Operational",
-      "path": "Further Study/Executive Capstone - Make Cybersecurity Operational.md"
+      "basename": "Security Checklists and Worksheets",
+      "path": "Further Study/Security Checklists and Worksheets.md"
+    },
+    {
+      "basename": "Vocabulary",
+      "path": "Further Study/Vocabulary.md"
     },
     {
       "basename": "_Live Call Discussion Points - Further Study",
@@ -105,10 +121,6 @@
       "path": "3. Handle Data Safely/Use the Minimum Necessary Data.md"
     },
     {
-      "basename": "Start Here",
-      "path": "Start Here.md"
-    },
-    {
       "basename": "Manage the Full Account Lifecycle",
       "path": "2. Protect Accounts and Access/Manage the Full Account Lifecycle.md"
     },
@@ -139,10 +151,6 @@
     {
       "basename": "How Social Engineering Manipulates People",
       "path": "1. Defeat Social Engineering/How Social Engineering Manipulates People.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Recognize Attacks Across Different Channels",
@@ -191,10 +199,6 @@
     {
       "basename": "_Git commands to make live",
       "path": "_Git commands to make live.md"
-    },
-    {
-      "basename": "_Stephen Test doc 1",
-      "path": "_Stephen Test doc 1.md"
     }
   ],
   "omittedPaths": [],

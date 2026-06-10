@@ -10,6 +10,7 @@ Further, cybersecurity performance goals can be positioned as practical baseline
 
 <br>
 <br>
+
 ![[Executive-in-data-center.jpg]]
 
 <br>
