@@ -125,4 +125,9 @@ This course is provided to you by SEIRIM: https://seirim.com/en/home
 When it comes time to perform your Practical Exercises and Quizzes they are located here and you will use the account we provided for you: https://training.seirim.com/portal/login
 
 
+### Course Instructor's Bios:
+
+- Aigerim:
+- Stephen:
+
 #### Let's get started!

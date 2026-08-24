@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Defeat Social Engineering/Practical Exercise and Quiz.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practical Exercise and Quiz"
+              "title": "Home"
             }
           }
         ],
@@ -56,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -223,6 +225,8 @@
   },
   "active": "7cb8c1e231a112ad",
   "lastOpenFiles": [
+    "1. Defeat Social Engineering/Build Fraud-Resistant Business Processes and Culture.md",
+    "1. Defeat Social Engineering/Practical Exercise and Quiz.md",
     "Home.md",
     "Woman-with-tablet-next-to-plant.jpg",
     "_Start Here.md",
@@ -257,7 +261,6 @@
     "4. Keep Devices, Software, and Workflows Secure/Use Only Approved Devices and Software.md",
     "4. Keep Devices, Software, and Workflows Secure/Install Updates and Restart Promptly.md",
     "3. Handle Data Safely/Establish Data Governance and Mitigate Risk.md",
-    "3. Handle Data Safely/_Live call discussion points - Module 3.md",
     "Further Study",
     "static/favicon.ico",
     "static",
